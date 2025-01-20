@@ -1,0 +1,15 @@
+1- Budget Tracking Queries:
+- Based on a monthly budget of [budget], recent expenses in [categories], and savings goal of [goal], suggest ways to adjust spending to meet the goal while covering necessary expenses
+-Analyze the spending pattern for the last [n] months in categories such as [categories] and suggest areas where expenses can be reduced
+
+2- Task Prioritization
+-Based on these tasks: [task_list], deadlines: [deadlines], and estimated time to complete each task: [task_times], create a prioritized task list for today considering the available time: [time_available]
+-With [task_list] tasks due on [deadlines], suggest a weekly plan to complete them while leaving [free_time] hours free each day for breaks or other activities
+
+3- Meal Prep
+-Create a 7-day meal plan based on a daily calorie goal of [calorie_goal], preferred cuisines: [cuisines], and dietary restrictions: [restrictions]. Include a shopping list for the week
+-Suggest budget-friendly meals for the week with a total cost under [budget] based on these grocery items: [inventory]
+
+4- Wellbeing
+-Based on the user's stress level of [stress_level], time availability of [time_available], and preferred activities: [preferences], suggest relaxation techniques or activities
+-Suggest a 3-day workout plan for a beginner with the goal of [goal], considering [available_equipment] and time constraints of [time_per_day] minutes per session
